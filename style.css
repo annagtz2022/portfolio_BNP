@@ -29,9 +29,9 @@ html{
 
 :root {
     --color-primary: #191d2b;
-    --color-secondary: #1d63ff;
-    --color-secondary: #1daf50;
     --color-secondary: #F5AD2C;
+    --color-secondary: #1d63ff;
+    --color-secondary: #008859;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
